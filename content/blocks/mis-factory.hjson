@@ -1,0 +1,23 @@
+name: man in lightium factory
+description: makes a man in lightiu.
+type: UnitFactory
+unitType: mis
+size: 2
+itemCapacity: 80
+hasItems: true
+produceTime: 250
+consumes: {
+  power: 0.6
+  items: {
+    items: [
+      lightium/40
+      silicon/40
+    ]
+  }
+}
+category: units
+research: dagger-factory
+requirements: [
+  silicon/90
+  lightium/75
+]

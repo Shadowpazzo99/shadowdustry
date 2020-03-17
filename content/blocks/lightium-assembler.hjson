@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: lightium assembler
+description: creates the most shining ore the world ever seen
+health: 400
+liquidCapacity: 30
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 30
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.75
+  items: {
+    items: [
+      metaglass/1
+      titanium/1
+      graphite/1
+    ]
+  }
+}
+requirements: [
+  graphite/90
+]
+category: crafting
+research: graphite-press
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: lightium/1

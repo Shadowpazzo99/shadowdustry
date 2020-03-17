@@ -1,0 +1,12 @@
+{
+	"type":"SolarGenerator",
+	"name": "dark panel",
+	"description": "he...generates power",
+	"size": 1,
+	"powerProduction": 5,
+	"requirements": [
+		{ "item": "darkium", "amount": 10 }
+	],
+	"category": "power",
+	"research": "solar-panel"
+}

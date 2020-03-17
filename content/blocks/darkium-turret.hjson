@@ -1,0 +1,46 @@
+type: ItemTurret
+name: darkium turret
+description: a well rounded turret.
+
+size: 1
+health: 450
+range: 120
+ammoUseEffect: none
+maxAmmo: 100
+inaccuracy: 5
+rotatespeed: 17
+reload: 4
+shootSound: none
+	
+ammo: {
+	darkium: {
+		speed: 10
+		damage: 25
+		bulletWidth: 7
+		bulletHeight: 10
+                             frontColor: 000000
+                             backColor: 000000
+		shootEffect: shootSmall
+		smokeEffect: shootSmallSmoke
+		ammoMultiplier: 5
+	}
+	lead: {
+		speed: 10
+		damage: 5
+		bulletWidth: 7
+		bulletHeight: 10
+		frontColor: FFA500
+		backColor: FFA500
+		status: burning
+		statusDuration: 300
+		shootEffect: shootSmall
+		smokeEffect: shootSmallSmoke
+		ammoMultiplier: 10
+	}
+}
+requirements: [
+	darkium/35
+             titanium/55
+]
+category: turret
+alwaysUnlocked: false

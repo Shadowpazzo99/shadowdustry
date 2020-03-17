@@ -1,0 +1,23 @@
+name: man in darkium factory
+description: makes a man in darkium
+type: UnitFactory
+unitType: mid
+size: 2
+itemCapacity: 80
+hasItems: true
+produceTime: 250
+consumes: {
+  power: 0.6
+  items: {
+    items: [
+      darkium/40
+      silicon/40
+    ]
+  }
+}
+category: units
+research: dagger-factory
+requirements: [
+  silicon/90
+  darkium/75
+]

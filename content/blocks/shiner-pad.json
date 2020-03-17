@@ -1,0 +1,14 @@
+{
+    "type": "MechPad",
+    "mech": "shiner",
+    "name": "shiner mech pad",
+    "description": "it trasform you in a shine mech.",
+    "size": 2,
+    "consumes":
+    {"power": 1.5},
+    "requirements": [
+        { "item": "lightium", "amount": 250 }
+    ],
+    "category": "upgrade",
+    "research": "delta-mech-pad"
+}

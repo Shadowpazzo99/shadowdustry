@@ -1,0 +1,14 @@
+{
+    "type": "MechPad",
+    "mech": "darker",
+    "name": "darker mech pad",
+    "description": "it trasform you in a dark ship.",
+    "size": 2,
+    "consumes":
+    {"power": 1.5},
+    "requirements": [
+        { "item": "darkium", "amount": 250 }
+    ],
+    "category": "upgrade",
+    "research": "delta-mech-pad"
+}

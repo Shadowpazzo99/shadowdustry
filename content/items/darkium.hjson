@@ -1,0 +1,6 @@
+type: material
+name: Darkium
+description: the  darkium is very dark
+cost: 3.0
+color: 000000
+hardness: 4

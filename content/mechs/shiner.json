@@ -1,0 +1,31 @@
+{
+	"name": "shiner",
+	"description": "a mech that is on the shine side.",
+	"health": 1000,
+	"mass": 16,
+	"flying": false,
+	"speed": 2.5,
+	"weapon": 
+	{
+		"name": "router-gun",
+		"length": 3,
+		"width": 3,
+		"reload": 45,
+                             "alternate": true,
+		"shots": 9,
+		"shootCone": 0,
+		"inaccuracy": 5,
+		"shootSound": "shotgun",
+		"bullet": 
+		{
+			"speed": 6,
+			"damage": 25,
+			"lifetime": 95,
+			"bulletHeight": 7,
+			"bulletWidth": 7
+		},
+		"keepVelocity": true
+	},
+	"buildPower": 1.15,
+	"itemCapacity": 65
+}

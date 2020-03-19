@@ -1,0 +1,31 @@
+{
+	"name": "darker",
+	"description": "a mech that is on the dark side.",
+	"health": 750,
+	"mass": 16,
+	"flying": true,
+	"speed": 2.5,
+	"weapon": 
+	{
+		"name": "router-gun",
+		"length": 3,
+		"width": 3,
+		"reload": 15,
+                             "alternate": true,
+		"shots": 1,
+		"shootCone": 0,
+		"inaccuracy": 0,
+		"shootSound": "shotgun",
+		"bullet": 
+		{
+			"speed": 6,
+			"damage": 20,
+			"lifetime": 95,
+			"bulletHeight": 7,
+			"bulletWidth": 7
+		},
+		"keepVelocity": true
+	},
+	"buildPower": 1.15,
+	"itemCapacity": 65
+}

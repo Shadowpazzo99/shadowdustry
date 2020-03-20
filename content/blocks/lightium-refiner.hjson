@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: lightium refiner
+description: you must have sunglasses for this
+health: 400
+liquidCapacity: 30
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 30
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.00
+  items: {
+    items: [
+      lightium/4
+    ]
+  }
+}
+requirements: [
+  lightium/90
+]
+category: crafting
+research: lightium-assembler
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: rlightium/1

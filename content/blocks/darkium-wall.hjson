@@ -1,0 +1,10 @@
+name: darkium wall
+description: a dark and THICC wall
+type: Wall
+health: 5680
+size: 2
+requirements: [
+  rdarkium/40
+]
+category: defense
+research: titanium-wall

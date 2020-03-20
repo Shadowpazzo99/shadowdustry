@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: darkium refiner
+description: when the darkium isn't so dark
+health: 400
+liquidCapacity: 30
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 30
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.00
+  items: {
+    items: [
+     darkium/4
+    ]
+  }
+}
+requirements: [
+  darkium/90
+]
+category: crafting
+research: darkium-assembler
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: rdarkium/1

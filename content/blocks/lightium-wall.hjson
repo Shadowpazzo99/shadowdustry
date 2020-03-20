@@ -1,0 +1,10 @@
+name: lightium wall
+description: a bright and THICC wall
+type: Wall
+health: 5680
+size: 2
+requirements: [
+  rlightium/40
+]
+category: defense
+research: titanium-wall

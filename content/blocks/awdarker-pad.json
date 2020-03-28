@@ -1,0 +1,14 @@
+{
+    "type": "MechPad",
+    "mech": "awdarker",
+    "name": "awakened darker mech pad",
+    "description": "it trasform you in an awakened dark ship.",
+    "size": 2,
+    "consumes":
+    {"power": 1.5},
+    "requirements": [
+        { "item": "rdarkium", "amount": 250 }
+    ],
+    "category": "upgrade",
+    "research": "darker-pad"
+}

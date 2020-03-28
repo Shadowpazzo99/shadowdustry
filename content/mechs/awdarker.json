@@ -1,0 +1,31 @@
+{
+	"name": "awakened darker",
+	"description": "a ship that is on the dark side.",
+	"health": 1020,
+	"mass": 16,
+	"flying": true,
+	"speed": 2.8,
+	"weapon": 
+	{
+		"name": "router-gun",
+		"length": 3,
+		"width": 3,
+		"reload": 13,
+                             "alternate": true,
+		"shots": 1,
+		"shootCone": 0,
+		"inaccuracy": 1,
+		"shootSound": "shotgun",
+		"bullet": 
+		{
+			"speed": 6,
+			"damage": 30,
+			"lifetime": 100,
+			"bulletHeight": 7,
+			"bulletWidth": 7
+		},
+		"keepVelocity": true
+	},
+	"buildPower": 2.00,
+	"itemCapacity": 80
+}

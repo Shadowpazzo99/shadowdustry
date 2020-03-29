@@ -1,0 +1,34 @@
+type: ItemTurret
+name: darkium shotgun
+description: he like to take care of buildings  and  if some  flying unit pass by it will die. 
+
+size: 3
+health: 1020
+range: 215
+ammoUseEffect: none
+maxAmmo: 100
+inaccuracy: 4
+rotatespeed: 17
+reload: 32
+shots: 7
+shootSound: none
+	
+ammo: {
+	darkium: {
+		speed: 6
+		damage: 35
+		bulletWidth: 16
+		bulletHeight: 10
+                             frontColor: 000000
+                             backColor: 000000
+		shootEffect: shootSmallSmoke
+		smokeEffect: shootSmallSmoke
+		ammoMultiplier: 1
+	}
+}
+requirements: [
+	rdarkium/35
+             darkium/55
+]
+category: turret
+research: darkium-turret

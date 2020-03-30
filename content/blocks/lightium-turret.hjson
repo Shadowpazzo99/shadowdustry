@@ -43,4 +43,4 @@ requirements: [
              titanium/55
 ]
 category: turret
-alwaysUnlocked: false
+research: duo

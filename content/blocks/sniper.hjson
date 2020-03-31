@@ -1,0 +1,46 @@
+type: ItemTurret
+name: lightium sniper
+description: this makes the lightium pretty useful isn't it? .
+
+size: 2
+health: 570
+range: 350
+ammoUseEffect: none
+maxAmmo: 100
+inaccuracy: 0
+rotatespeed: 12
+reload: 40
+shootSound: none
+	
+ammo: {
+	lightium: {
+		speed: 8
+		damage: 95
+		bulletWidth: 6
+		bulletHeight: 6
+                             frontColor: ffffff
+		backColor: ffffff
+		shootEffect: shootSmall
+		smokeEffect: shootSmallSmoke
+		ammoMultiplier: 1
+	}
+	rlightium: {
+		speed: 8
+		damage: 145
+		bulletWidth: 9
+		bulletHeight: 9
+		frontColor: ffffff
+		backColor: ffffff
+		status: burning
+		statusDuration: 35
+		shootEffect: shootSmall
+		smokeEffect: shootSmallSmoke
+		ammoMultiplier: 2
+	}
+}
+requirements: [
+	rlightium/55
+                lightium/5
+]
+category: turret
+research: lightium-turret

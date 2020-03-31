@@ -24,6 +24,7 @@ ammo: {
 		shootEffect: shootSmallSmoke
 		smokeEffect: shootSmallSmoke
 		ammoMultiplier: 1
+       } 
        rdarkium: {
 		speed: 6
 		damage: 55

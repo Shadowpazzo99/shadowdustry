@@ -1,0 +1,46 @@
+type: ItemTurret
+name: awakened darkium turret
+description: a well dark rounded turret.
+
+size: 2
+health: 550
+range: 155
+ammoUseEffect: none
+maxAmmo: 100
+inaccuracy: 4
+rotatespeed: 17
+reload: 4
+shootSound: none
+	
+ammo: {
+	darkium: {
+		speed: 10
+		damage: 25
+		bulletWidth: 7
+		bulletHeight: 10
+                             frontColor: 000000
+                             backColor: 000000
+		shootEffect: shootSmall
+		smokeEffect: shootSmallSmoke
+		ammoMultiplier: 5
+	}
+	rdarkium: {
+		speed: 13
+		damage: 45
+		bulletWidth: 7
+		bulletHeight: 10
+		frontColor: 000000
+		backColor: 000000
+		status: burning
+		statusDuration: 300
+		shootEffect: shootSmall
+		smokeEffect: shootSmallSmoke
+		ammoMultiplier: 10
+	}
+}
+requirements: [
+	darkium/30
+             rdarkium/50
+]
+category: turret
+research: darkium-shotgun

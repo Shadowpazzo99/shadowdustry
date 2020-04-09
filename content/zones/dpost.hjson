@@ -1,0 +1,32 @@
+name: darkium outpost
+description: this zone has been taken by evil forces and they have darkium-based defences destroy them.
+loadout: basicFoundation
+startingItems: [
+  copper/200
+  lead/300
+  darkium/50
+]
+conditionWave: 10
+launchPeriod: 10
+requirements: [
+  {
+    type: ZoneWave
+    zone: groundZero
+    wave: 25
+  }
+  {
+    type: Unlock
+    block: lightium-assembler
+  }
+  {
+    type: Unlock
+    block: darkium-assembler
+  }
+]
+resources: [
+  copper
+  lead
+  coal
+  sand
+  titanium
+]

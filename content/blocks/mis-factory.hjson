@@ -1,11 +1,11 @@
 name: man in lightium factory
-description: makes a man in lightiu.
+description: makes a man in lightium.
 type: UnitFactory
 unitType: mis
 size: 2
 itemCapacity: 80
 hasItems: true
-produceTime: 250
+produceTime: 1200
 consumes: {
   power: 0.6
   items: {

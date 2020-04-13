@@ -1,0 +1,9 @@
+{
+	"type": "material",
+	"name": "[#262626]darkium",
+	"description": "it's a very dark material",
+	"hardness": 2.0,
+	"cost": 5.0,
+	"color": "#000000",
+	"radioactivity": 0
+}

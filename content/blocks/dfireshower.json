@@ -1,6 +1,7 @@
 {
 	"type": "LaserTurret",
-	"name": "darkium fire shower",
+	"name": " [#7e00ff] darkium
+[#ff9900] fire shower",
 	"description": "it's op trust me.",
 	"targetAir": true,
 	"targetGround": true,

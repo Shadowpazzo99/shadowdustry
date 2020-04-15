@@ -1,0 +1,25 @@
+name: javelin factory
+description: makes a lightium missile fighter.
+type: UnitFactory
+unitType: javelin
+size: 2
+itemCapacity: 80
+hasItems: true
+produceTime: 2000
+consumes: {
+  power: 0.6
+  items: {
+    items: [
+      lightium/40
+       rlightium/10
+      silicon/40
+    ]
+  }
+}
+category: units
+research: mis-factory
+requirements: [
+  silicon/90
+  lightium/75
+  rlightium/30
+]

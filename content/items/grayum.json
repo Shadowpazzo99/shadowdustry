@@ -1,0 +1,9 @@
+{
+	"type": "material",
+	"name": "[#808080]grayum",
+	"description": "it's a very [#808080] neutral  material? ",
+	"hardness": 2.0,
+	"cost": 5.0,
+	"color": "#808080",
+	"radioactivity": 0
+}

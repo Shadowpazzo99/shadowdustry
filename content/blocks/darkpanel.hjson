@@ -3,9 +3,9 @@
 	"name": "dark panel",
 	"description": "he...generates power",
 	"size": 1,
-	"powerProduction": 5,
+	"powerProduction": 2,
 	"requirements": [
-		{ "item": "darkium", "amount": 10 }
+		{ "item": "darkium", "amount": 15 }
 	],
 	"category": "power",
 	"research": "solar-panel"

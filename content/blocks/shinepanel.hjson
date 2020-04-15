@@ -1,11 +1,11 @@
 {
 	"type":"SolarGenerator",
-	"name": "shine panel",
+	"name": "lightium panel",
 	"description": "he...generates power",
 	"size": 1,
-	"powerProduction": 5,
+	"powerProduction": 2.1,
 	"requirements": [
-		{ "item": "lightium", "amount": 10 }
+		{ "item": "lightium", "amount": 15 }
 	],
 	"category": "power",
 	"research": "solar-panel"

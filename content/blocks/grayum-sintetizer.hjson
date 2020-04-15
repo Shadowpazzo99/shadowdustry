@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: grayum sintetizer
+description: creates a neutral ore idk why
+health: 450
+liquidCapacity: 30
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 25
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.70
+  items: {
+    items: [
+      coal/1
+       metaglass/1
+    ]
+  }
+}
+requirements: [
+  copper/90
+       lead/35
+]
+category: crafting
+research: graphite-press
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: grayum/3

@@ -1,0 +1,10 @@
+name: grayum wall
+description: dayum boi he not so THICC (totally not a joke) 
+type: Wall
+health: 3860
+size: 2
+requirements: [
+  grayum/40
+]
+category: defense
+research: titanium-wall

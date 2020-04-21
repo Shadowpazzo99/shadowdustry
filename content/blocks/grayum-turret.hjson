@@ -39,8 +39,8 @@ ammo: {
 	}
 }
 requirements: [
-	darkium/35
-             titanium/55
+	grayum/35
+        copper/35
 ]
 category: turret
 research: duo

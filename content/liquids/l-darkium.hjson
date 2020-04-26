@@ -1,0 +1,7 @@
+name: liquid darkium
+description: very dark and cold liquid  trt  it on  some drills or turrets. 
+temperature: 0
+viscosity: 0.5
+heatCapacity: 1.4
+effect: wet
+color: 000000

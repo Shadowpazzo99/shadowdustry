@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: darkium melter
+description: it melts darkium to make a pretty dark and cold liquid
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 45
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.6
+  items: {
+    items: [
+      darkium/2
+    ]
+  }
+}
+requirements: [
+  lead/10
+  graphite/10
+  darkium/30
+]
+category: crafting
+research: separator
+idleSound: respawning
+idleSoundVolume: 0.5
+outputLiquid: l-darkium/25

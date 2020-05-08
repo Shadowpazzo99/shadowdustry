@@ -1,0 +1,24 @@
+{
+	"name": "refined darkium drill",
+	"description": "Drill can mine a LOT of things.",
+	"type": "Drill",
+	"size": 3,
+	"tier": 16,
+	"BlockGroup": "drills",
+	"drillTime": 55,
+	"consumes": {
+		"power": 0.7,
+		"liquid": {
+			"liquid": "water", 
+			"amount": 0.1,
+			"booster": true,
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "darkium", "amount": 45 },
+		{ "item": "rdarkium", "amount": 75 }
+	],
+	"category": "production",
+	"research": "dark-drill"
+}

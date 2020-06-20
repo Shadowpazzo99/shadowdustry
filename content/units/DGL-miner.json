@@ -1,0 +1,28 @@
+{
+	"type": "MinerDrone",
+	"name": " [purple] D [gray] G [white] L [red] miner ",
+	"description": "A miner made with Darkium, Grayum and Lightium ",
+	"flying": true,
+	"maxVelocity": 1.1,
+	"minePower": 11,
+	"speed": 0.6,
+	"drag": 0.15,
+	"mass": 1,
+	"rotatespeed": 0.12,
+	"hitsize": 9,
+	"health": 800,
+	"range": 100,
+	"engineSize": 2.1,
+	"engineOffset": 8,
+	"itemCapacity": 60,
+	"toMine": [
+		"copper",
+		"lead",
+		"titanium",
+		"thorium"
+	],
+	"weapon": {
+		"name": "lel.",
+		"bullet": "lancerLaser"
+	}
+}

@@ -1,0 +1,25 @@
+name: DGL drone factory
+description: makes a miner drone with nice statistics.
+type: UnitFactory
+unitType: DGL-miner
+size: 2
+itemCapacity: 80
+hasItems: true
+produceTime: 2000
+consumes: {
+  power: 0.6
+  items: {
+    items: [
+      lightium/40
+       darkium/10
+      grayum/40
+    ]
+  }
+}
+category: units
+research: revenant-factory
+requirements: [
+  grayum/90
+  darkium/75
+  lightium/30
+]

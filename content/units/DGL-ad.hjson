@@ -1,0 +1,32 @@
+{
+    "type": "Revenant",
+    "name": "DGL assault drone",
+    "description": "its a DGL assault drone",
+    "speed": 0.2,
+    "flying":true,
+    "engineSize": 4,
+    "engineOffset": 10,
+    "hitsize": 7,
+    "health": 1550,
+    "itemCapacity": 60,
+    "targetAir":true,
+    "range": 4
+    "weapon":{
+        "name": "DGL-rifle",
+        "length":2,
+        "width":4,
+        "reload":15,
+        "shots":1,
+        "velocityRnd": 0.1,
+        "inaccuracy": 0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "bullet": {
+				"type": "BasicBulletType",
+				"lifetime": 45,
+				"speed": 5,
+				"damage": 15,
+		},
+        "shootSound": "shootSnap"
+    }
+}

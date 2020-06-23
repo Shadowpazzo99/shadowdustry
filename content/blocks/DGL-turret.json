@@ -1,0 +1,43 @@
+{
+	"type": "burstTurret",
+	"name": "DGL burst turret",
+	"description": "its not like the salvo you know",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 1500,
+	"size": 2,
+	"inaccuracy": 1,
+	"reload": 35,
+	"shootCone": 1,
+	"shots": 5,
+	"range": 180,
+	"burstSpacing": 6,
+	"ammo": {
+		"DGL-ore": {
+			"speed": 4.4,
+			"damage": 75,
+			"bulletWidth": 12,
+			"bulletHeight": 17,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 3
+		},
+		"grayum": {
+			"speed": 4.5,
+			"damage": 35,
+			"bulletWidth": 13,
+			"bulletHeight": 20,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		}
+	},
+	"requirements": [
+		{ "item": "thorium", "amount": 30 },
+		{ "item": "DGL-ore", "amount": 25 },
+		{ "item": "grayum", "amount": 45 },
+		{ "item": "silicon", "amount": 40 }
+	],
+	"category": "turret"
+	"research": "salvo"
+}

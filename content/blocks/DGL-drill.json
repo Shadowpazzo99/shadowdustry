@@ -1,0 +1,23 @@
+{
+	"name": "[purple]D[gray]G[white]L []drill",
+	"description": "Drill can mine a LOT of things.",
+	"type": "Drill",
+	"size": 3,
+	"tier": 27,
+	"BlockGroup": "drills",
+	"drillTime": 30,
+	"consumes": {
+		"power": 1.1,
+		"liquid": {
+			"liquid": "water", 
+			"amount": 0.1,
+			"booster": true,
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "DGL-ore", "amount": 75 }
+	],
+	"category": "production",
+	"research": "awdark-drill"
+}

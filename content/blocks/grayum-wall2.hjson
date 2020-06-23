@@ -1,0 +1,10 @@
+name: grayum smol wall
+description: smol grayum wall
+type: Wall
+health: 965
+size: 1
+requirements: [
+  grayum/10
+]
+category: defense
+research: titanium-wall

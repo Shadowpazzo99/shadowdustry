@@ -1,0 +1,10 @@
+name: lightium smol wall
+description: a bright and thicc smol wall
+type: Wall
+health: 1420
+size: 1
+requirements: [
+  rlightium/10
+]
+category: defense
+research: titanium-wall

@@ -1,0 +1,10 @@
+name: DGL smol wall
+description: a really sturdy wall not gonna lie even if he is smol
+type: Wall
+health: 3000
+size: 1
+requirements: [
+  DGL-ore/10
+]
+category: defense
+research: surge-wall

@@ -1,7 +1,7 @@
-name: DGL drone factory
-description: makes a miner drone with nice statistics.
+name: DGL assault drone factory
+description: makes a DGL assault drone.
 type: UnitFactory
-unitType: DGL-miner
+unitType: DGL-ad
 size: 2
 itemCapacity: 80
 hasItems: true

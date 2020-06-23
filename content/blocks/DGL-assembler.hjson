@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: DGL assembler
+description: creates the DGL ore 
+health: 400
+liquidCapacity: 30
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 30
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.2
+  items: {
+    items: [
+      rdarkium/3
+      rlightium/3
+      grayum/3
+    ]
+  }
+}
+requirements: [
+  grayum/90
+]
+category: crafting
+research: alloy-smelter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: DGL-ore/3

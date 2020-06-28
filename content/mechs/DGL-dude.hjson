@@ -1,0 +1,15 @@
+name: DGL dude
+description: dont mess with DGL dude.
+speed: 0.6
+boostSpeed: 1.5
+buildPower: 4
+flying: false
+health: 2020
+weaponOffsetX: 4
+weapon: {
+  name: DGL-blaster
+  length: 1.5
+  reload: 4
+  alternate: false
+  bullet: lightning
+}

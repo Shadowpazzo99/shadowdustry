@@ -1,0 +1,14 @@
+{
+    "type": "MechPad",
+    "mech": "DGL-dude",
+    "name": "DGL dude house",
+    "description": "it makes an advanced mech.",
+    "size": 2,
+    "consumes":
+    {"power": 1.5},
+    "requirements": [
+        { "item": "DGL-ore", "amount": 250 }
+    ],
+    "category": "upgrade",
+    "research": "shiner-pad"
+}

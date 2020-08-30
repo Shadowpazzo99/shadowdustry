@@ -3,13 +3,13 @@ name: darkium shotgun
 description: he like to take care of buildings  and  if some  flying unit pass by it will die. 
 
 size: 3
-health: 1020
+health: 1080
 range: 195
 ammoUseEffect: none
 maxAmmo: 100
 inaccuracy: 4
-rotatespeed: 17
-reload: 32
+rotatespeed: 19
+reload: 29
 shots: 7
 shootSound: none
 	
@@ -17,7 +17,7 @@ ammo: {
 	darkium: {
 		speed: 6
 		damage: 35
-		bulletWidth: 16
+		bulletWidth: 17
 		bulletHeight: 10
                              frontColor: 000000
                              backColor: 000000
@@ -28,8 +28,8 @@ ammo: {
        rdarkium: {
 		speed: 6
 		damage: 55
-		bulletWidth: 16
-		bulletHeight: 10
+		bulletWidth: 18
+		bulletHeight: 11
                              frontColor: 000000
                              backColor: 000000
 		shootEffect: shootSmallSmoke

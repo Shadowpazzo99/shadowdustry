@@ -4,7 +4,7 @@
 	"health": 1020,
 	"mass": 16,
 	"flying": true,
-	"speed": 2.8,
+	"speed": 2.0,
 	"weapon": 
 	{
 		"name": "router-gun",
@@ -20,12 +20,12 @@
 		{
 			"speed": 6,
 			"damage": 30,
-			"lifetime": 100,
+			"lifetime": 70,
 			"bulletHeight": 7,
 			"bulletWidth": 7
 		},
 		"keepVelocity": true
 	},
-	"buildPower": 2.00,
+	"buildPower": 2.55,
 	"itemCapacity": 80
 }

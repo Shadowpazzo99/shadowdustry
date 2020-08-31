@@ -1,10 +1,10 @@
 {
 	"name": "shiner",
 	"description": "a mech that is on the shine side.",
-	"health": 1000,
+	"health": 760,
 	"mass": 16,
 	"flying": false,
-	"speed": 2.5,
+	"speed": 1.7,
 	"weapon": 
 	{
 		"name": "router-gun",
@@ -20,7 +20,7 @@
 		{
 			"speed": 6,
 			"damage": 25,
-			"lifetime": 95,
+			"lifetime": 60,
 			"bulletHeight": 7,
 			"bulletWidth": 7
 		},

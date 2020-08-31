@@ -19,7 +19,8 @@
 		"copper",
 		"lead",
 		"titanium",
-		"thorium"
+		"thorium",
+		"scrap"
 	],
 	"weapon": {
 		"name": "lel.",

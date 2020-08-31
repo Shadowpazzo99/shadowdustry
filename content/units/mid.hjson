@@ -7,7 +7,7 @@
     "engineSize": 4,
     "engineOffset": 10,
     "hitsize": 7,
-    "health": 1200,
+    "health": 420,
     "itemCapacity": 60,
     "targetAir":true,
     "range": 6

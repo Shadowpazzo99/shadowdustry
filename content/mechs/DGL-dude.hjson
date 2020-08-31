@@ -1,10 +1,11 @@
+{
 name: DGL dude
 description: dont mess with DGL dude.
 speed: 0.7
 boostSpeed: 1.5
 buildPower: 4
 flying: false
-health: 2400
+health: 2260
 weaponOffsetX: 4
 weapon: {
   name: DGL-blaster

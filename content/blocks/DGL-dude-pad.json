@@ -1,8 +1,8 @@
 {
     "type": "MechPad",
     "mech": "DGL-dude",
-    "name": "DGL dude house",
-    "description": "it makes an advanced mech.",
+    "name": "DGL dude pad",
+    "description": "it makes an advanced DGL mech.",
     "size": 2,
     "consumes":
     {"power": 1.5},

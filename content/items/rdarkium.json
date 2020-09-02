@@ -1,9 +1,9 @@
 {
 	"type": "material",
-	"name": " [#8900ff] refined [#262626]darkium",
-	"description": "it's a very [#ff0000] VERY dark material",
+	"name": " [#8900ff] Refined [#262626]darkium",
+	"description": "it's a very [#6E0384] Very dark material",
 	"hardness": 2.0,
-	"cost": 5.0,
+	"cost": 4.0,
 	"color": "#8900ff",
 	"radioactivity": 0
 }

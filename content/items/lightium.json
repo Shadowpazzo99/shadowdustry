@@ -3,7 +3,7 @@
 	"name": "[#ffffff]lightium",
 	"description": "it's a very bright material",
 	"hardness": 2.0,
-	"cost": 5.0,
+	"cost": 3.5,
 	"color": "#ffffff",
 	"radioactivity": 0
 }

@@ -1,9 +1,9 @@
 {
 	"type": "material",
-	"name": " [#cbcbcb] refined [#ffffff]lightium",
-	"description": "it's a very [#ff0000] VERY bright material",
+	"name": " [#cbcbcb] Refined [#ffffff]lightium",
+	"description": "it's a very [#ffffff] Very bright material",
 	"hardness": 2.0,
-	"cost": 5.0,
+	"cost": 4.0,
 	"color": "#ffffff",
 	"radioactivity": 0
 }

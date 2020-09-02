@@ -1,5 +1,7 @@
 type: MechPad
 mech: DGL-dude
+name: DGL dude pad
+description: transforms into a very high tier combat mech armed with an arc minigun
 size: 2
 consumes: {
   power: 3.5
@@ -13,3 +15,5 @@ requirements: [
   graphite/300
   DGL-ore/180
 ]
+category: upgrade
+research: shiner-pad

@@ -1,5 +1,7 @@
-dspeed: 0.6
-boostSpeed: 1.5
+name: DGL dude
+description: a high tier mech capable of blasting everything with its arc minigun
+mass: 18
+speed: 1.4
 buildPower: 3
 mineSpeed: 3
 drillPower: 3

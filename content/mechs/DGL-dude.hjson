@@ -1,11 +1,12 @@
 {
 name: DGL dude
-description: dont mess with DGL dude.
+description: basically 130 arcs attached to a very resistant high tier combat unit
 speed: 0.7
-boostSpeed: 1.5
+boostSpeed: 1.6
 buildPower: 4
+engineColor: "666495"
 flying: false
-health: 2260
+health: 4200
 weaponOffsetX: 4
 weapon: {
   name: DGL-blaster

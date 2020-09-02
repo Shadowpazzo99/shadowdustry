@@ -1,10 +1,10 @@
-name: lightium smol wall
-description: a bright and thicc smol wall
+name: darkium wall
+description: a dark and THICC wall
 type: Wall
 health: 1200
 size: 1
 requirements: [
-  rlightium/10
+  rdarkium/10
 ]
 category: defense
 research: titanium-wall

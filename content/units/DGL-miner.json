@@ -4,7 +4,7 @@
 	"description": "A miner made with Darkium, Grayum and Lightium ",
 	"flying": true,
 	"maxVelocity": 1.1,
-	"minePower": 11,
+	"minePower": 12,
 	"speed": 0.6,
 	"drag": 0.15,
 	"mass": 1,

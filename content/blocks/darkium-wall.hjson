@@ -1,7 +1,7 @@
-name: darkium wall
-description: a dark and THICC wall
+name: large darkium wall
+description: a bigger and thiccer darkium wall
 type: Wall
-health: 5680
+health: 4800
 size: 2
 requirements: [
   rdarkium/40

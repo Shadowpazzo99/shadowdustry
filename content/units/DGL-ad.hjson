@@ -7,7 +7,7 @@
     "engineSize": 4,
     "engineOffset": 10,
     "hitsize": 7,
-    "health": 460,
+    "health": 810,
     "itemCapacity": 60,
     "targetAir":true,
     "range": 4
@@ -15,8 +15,8 @@
         "name": "DGL-rifle",
         "length":2,
         "width":4,
-        "reload":15,
-        "shots":1,
+        "reload":13,
+        "shots":2,
         "velocityRnd": 0.1,
         "inaccuracy": 0,
         "alternate": true,
@@ -25,7 +25,7 @@
 				"type": "BasicBulletType",
 				"lifetime": 45,
 				"speed": 5,
-				"damage": 15,
+				"damage": 20,
 		},
         "shootSound": "shootSnap"
     }

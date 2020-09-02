@@ -15,7 +15,7 @@
         "name": "mid-rifle",
         "length":5,
         "width":5,
-        "reload":90,
+        "reload":84,
         "shots":1,
         "velocityRnd": 0.1,
         "inaccuracy": 0,
@@ -23,7 +23,7 @@
         "ejectEffect": "shellEjectSmall",
         "bullet": {
 				"type": "BasicBulletType",
-				"lifetime": 10,
+				"lifetime": 70,
 				"speed": 5,
 				"damage": 65,
 		},

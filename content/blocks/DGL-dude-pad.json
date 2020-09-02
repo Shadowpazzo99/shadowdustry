@@ -1,17 +1,15 @@
-{
-    "type": "MechPad",
-    "mech": "DGL-dude",
-    "name": "DGL dude pad",
-    "description": "transforms you in a very high tier attack mech.",
-    "size": 2,
-    "consumes":
-    {"power": 1.5},
-    "requirements": [
-        { "item": "DGL-ore", "amount": 250 },
-        { "item": "lead", "amount": 700 },
-        { "item": "silicon", "amount": 300 },
-        { "item": "grayum", "amount": 600 }
-    ],
-    "category": "upgrade",
-    "research": "shiner-pad"
+type: MechPad
+mech: DGL-dude
+size: 2
+consumes: {
+  power: 3.5
 }
+category: upgrade
+research: shiner-pad
+requirements: [
+  thorium/430
+  titanium/300
+  silicon/260
+  graphite/300
+  DGL-ore/180
+]

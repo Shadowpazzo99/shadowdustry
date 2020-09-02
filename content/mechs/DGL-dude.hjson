@@ -1,17 +1,18 @@
-{
-name: DGL dude
-description: basically an arc minigun in a high tier combat mech
-speed: 0.9
-boostSpeed: 1.9
-buildPower: 3.69
-engineColor: "666495"
+dspeed: 0.6
+boostSpeed: 1.5
+buildPower: 3
+mineSpeed: 3
+drillPower: 3
+ItemCapacity: 60
+engineColor: "8ebeef"
 flying: false
 health: 4000
 weaponOffsetX: 4
 weapon: {
   name: DGL-blaster
-  length: 1.7
+  shootSound: spark
+  length: 1.5
   reload: 2
-  alternate: false
+  alternate: true
   bullet: lightning
 }

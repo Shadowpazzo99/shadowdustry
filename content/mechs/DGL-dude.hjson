@@ -1,10 +1,8 @@
-{
 name: DGL dude
 description: basically 130 arcs attached to a very resistant high tier combat unit
 speed: 0.7
 boostSpeed: 1.6
 buildPower: 4
-engineColor: "666495"
 flying: false
 health: 4200
 weaponOffsetX: 4
@@ -14,4 +12,3 @@ weapon: {
   reload: 2
   alternate: true
   bullet: lightning
-}

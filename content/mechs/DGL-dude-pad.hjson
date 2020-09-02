@@ -1,4 +1,3 @@
-{
 name: DGL dude pad
 description: transforms you in a arc minigun mech basically. 
 type: MechPad
@@ -13,4 +12,3 @@ requirements: [
  silicon/420
  titanium/69
 ]
-}

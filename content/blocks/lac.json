@@ -1,21 +1,21 @@
 {
 	"type": "burstTurret",
-	"name": "lightium apocalipse cannon",
+	"name": "Lightium Apocalipse Cannon",
 	"description": "actually good as it looks",
 	"targetAir": true,
 	"targetGround": true,
 	"health": 2000,
 	"size": 3,
 	"inaccuracy": 1,
-	"reload": 15,
+	"reload": 18,
 	"shootCone": 1,
 	"shots": 5,
-	"range": 215,
+	"range": 210,
 	"burstSpacing": 6,
 	"ammo": {
 		"lightium": {
-			"speed": 4.4,
-			"damage": 75,
+			"speed": 4.3,
+			"damage": 70,
 			"bulletWidth": 12,
 			"bulletHeight": 17,
 			"shootEffect": "shootSmall",
@@ -24,20 +24,20 @@
 		},
 		"rlightium": {
 			"speed": 4.5,
-			"damage": 95,
+			"damage": 90,
 			"bulletWidth": 13,
-			"bulletHeight": 20,
+			"bulletHeight": 18,
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 4
 		}
 	},
 	"requirements": [
-		{ "item": "thorium", "amount": 155 },
+		{ "item": "thorium", "amount": 230 },
 		{ "item": "lightium", "amount": 200 },
 		{ "item": "rlightium", "amount": 105 },
-		{ "item": "silicon", "amount": 260 }
+		{ "item": "silicon", "amount": 540 }
 	],
-	"category": "turret"
+	"category": "turret",
 	"research": "sniper"
 }

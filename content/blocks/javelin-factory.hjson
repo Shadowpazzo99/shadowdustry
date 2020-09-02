@@ -1,4 +1,4 @@
-name: javelin factory
+name: Javelin factory
 description: makes a lightium missile fighter.
 type: UnitFactory
 unitType: javelin
@@ -12,7 +12,7 @@ consumes: {
     items: [
       lightium/40
        rlightium/10
-      silicon/40
+      silicon/55
     ]
   }
 }

@@ -1,7 +1,7 @@
-name: grayum smol wall
-description: smol grayum wall
+name: Grayum wall
+description: a wall that i consider worth to build
 type: Wall
-health: 965
+health: 600
 size: 1
 requirements: [
   grayum/10

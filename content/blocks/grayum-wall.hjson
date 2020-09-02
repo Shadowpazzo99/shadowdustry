@@ -1,7 +1,7 @@
-name: grayum wall
-description: dayum boi he not so THICC (totally not a joke) 
+name: Big grayum wall
+description: A bigger version of grayum wall
 type: Wall
-health: 3860
+health: 2400
 size: 2
 requirements: [
   grayum/40

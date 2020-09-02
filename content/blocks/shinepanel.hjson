@@ -1,7 +1,7 @@
 {
 	"type":"SolarGenerator",
-	"name": "lightium panel",
-	"description": "he...generates power",
+	"name": "Lightium panel",
+	"description": "It's op lol",
 	"size": 1,
 	"powerProduction": 2.1,
 	"requirements": [

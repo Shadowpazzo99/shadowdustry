@@ -1,0 +1,28 @@
+
+{
+	"name": "Super Mend Projector",
+	"description": "a high tier mender",
+	"type": "MendProjector"
+	"health": 780,
+	"size": 2,
+	"range": 100,
+	"reload": 300
+	"phase": "#f0f2f5",
+	"color": "#aaadb1",
+	"healPercent": 40,
+	"consumes": {
+		"power": 2.6
+		"items": {
+			"items": [ { "amount": 1, "item": "grayum" } ],
+			"booster": true,
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "grayum", "amount": 70 },
+		{ "item": "silicon", "amount": 600 },
+		{ "item": "DGL-ore", "amount": 70 }
+	],
+	"category": "effect"
+	"research": "mend-projector"
+}

@@ -1,0 +1,22 @@
+
+{
+	"name": "grayumer",
+	"description": "an actual advanced repair unit .",
+	"speed": 0.8,
+	"boostSpeed": 1.0,
+	"buildPower": 2.0,
+	"drillPower": 3.0,
+	"mineSpeed": 2.3,
+	"engineColor": "e0190b",
+	"flying": false,
+	"health": 575,
+	"healPercent": 4,
+	"weaponOffsetX": 4,
+	"weapon": {
+		"name": "grayum-hblaster",
+		"length": 3,
+		"reload": 12,
+		"alternate": true,
+		"bullet": "healBullet"
+	}
+}

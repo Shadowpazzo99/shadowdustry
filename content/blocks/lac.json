@@ -1,16 +1,17 @@
 {
 	"type": "burstTurret",
 	"name": "Lightium Apocalipse Cannon",
-	"description": "actually good as it looks",
+	"description": "actually good as it looks. by the way, the bullet doesnt last long as the range
+	this turret is good to anticipate enemy troops path not offense",
 	"targetAir": true,
 	"targetGround": true,
 	"health": 2000,
 	"size": 3,
 	"inaccuracy": 1,
-	"reload": 18,
+	"reload": 11,
 	"shootCone": 1,
 	"shots": 5,
-	"range": 210,
+	"range": 275,
 	"burstSpacing": 6,
 	"ammo": {
 		"lightium": {

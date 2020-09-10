@@ -1,7 +1,7 @@
 {
 	"type":"SolarGenerator",
 	"name": "dark panel",
-	"description": "he...generates power",
+	"description": "It's a good way to generate power without much resource usage",
 	"size": 1,
 	"powerProduction": 2,
 	"requirements": [

@@ -1,11 +1,11 @@
 {
 	"type":"SolarGenerator",
-	"name": "Lightium panel",
-	"description": "It's op lol",
+	"name": "Lightium solar Panel",
+	"description": "It's a good way to generate power without much resource usage",
 	"size": 1,
-	"powerProduction": 2.1,
+	"powerProduction": 2.3,
 	"requirements": [
-		{ "item": "lightium", "amount": 15 }
+		{ "item": "lightium", "amount": 20 }
 	],
 	"category": "power",
 	"research": "solar-panel"

@@ -19,8 +19,8 @@ consumes: {
   }
 }
 requirements: [
-  copper/90
-       lead/35
+  copper/95
+  lead/80
 ]
 category: crafting
 research: graphite-press

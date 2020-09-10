@@ -1,6 +1,6 @@
 {
-	"name": "shiner",
-	"description": "a mech that is on the shine side.",
+	"name": "Awakened Shiner",
+	"description": "a better shiner with more hits, damage, speed, health and other stuff.",
 	"health": 1400,
 	"mass": 18,
 	"flying": false,
@@ -10,17 +10,17 @@
 		"name": "router-gun",
 		"length": 3,
 		"width": 3,
-		"reload": 35,
+		"reload": 31,
                              "alternate": true,
-		"shots": 15,
+		"shots": 16,
 		"shootCone": 0,
-		"inaccuracy": 2,
+		"inaccuracy": 1,
 		"shootSound": "shotgun",
 		"bullet": 
 		{
 			"speed": 6,
 			"damage": 25,
-			"lifetime": 85,
+			"lifetime": 45,
 			"bulletHeight": 7,
 			"bulletWidth": 7
 		},

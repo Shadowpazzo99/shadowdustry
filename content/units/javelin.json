@@ -1,7 +1,7 @@
 {
 	"type": "Revenant",
-	"name": "javelin",
-	"description": "it shoot missiles.",
+	"name": "Lightium Assault Drone",
+	"description": "a missile swarmer unit that distances from enemy if it gets near.",
   "drag": 0.15,
 	"speed": 0.4,
 	"mass": 9,

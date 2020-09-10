@@ -1,7 +1,6 @@
 type: ItemTurret
 name: darkium shotgun
-description: he like to take care of buildings  and  if some  flying unit pass by it will die. 
-
+description: good against big air units and large waves of enemies. 
 size: 3
 health: 1080
 range: 195
@@ -39,7 +38,7 @@ ammo: {
 }
 requirements: [
 	rdarkium/35
-         darkium/55
+    darkium/55
 ]
 category: turret
 research: darkium-turret

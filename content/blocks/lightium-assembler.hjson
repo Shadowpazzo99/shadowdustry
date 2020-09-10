@@ -1,6 +1,6 @@
 type: GenericCrafter
-name: lightium assembler
-description: creates the most shining ore the world ever seen
+name: Lightium Assembler
+description: creates a very bright material
 health: 400
 liquidCapacity: 30
 size: 2

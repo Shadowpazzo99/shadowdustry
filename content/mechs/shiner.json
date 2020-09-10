@@ -1,6 +1,6 @@
 {
-	"name": "shiner",
-	"description": "a mech that is on the shine side.",
+	"name": "Shiner",
+	"description": "a lightium mech that has a long range shotgun.",
 	"health": 760,
 	"mass": 16,
 	"flying": false,
@@ -14,13 +14,13 @@
                              "alternate": true,
 		"shots": 9,
 		"shootCone": 0,
-		"inaccuracy": 5,
+		"inaccuracy": 4,
 		"shootSound": "shotgun",
 		"bullet": 
 		{
 			"speed": 6,
 			"damage": 25,
-			"lifetime": 60,
+			"lifetime": 30,
 			"bulletHeight": 7,
 			"bulletWidth": 7
 		},

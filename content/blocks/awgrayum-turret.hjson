@@ -1,46 +1,46 @@
 type: ItemTurret
 name: grayum sentry mk2
-description: not a tf2 reference its pretty good himself.
+description: a balanced turret for air and ground.
 
 size: 2
 health: 550
-range: 135
+range: 155
 ammoUseEffect: none
 maxAmmo: 55
-inaccuracy: 6
+inaccuracy: 5
 rotatespeed: 17
-reload: 3
+reload: 6
 shootSound: none
 	
 ammo: {
 	grayum: {
 		speed: 10
-		damage: 25
+		damage: 19
 		bulletWidth: 7
 		bulletHeight: 10
                              frontColor: c2c2c2
                              backColor: c2c2c2
 		shootEffect: shootSmall
 		smokeEffect: shootSmallSmoke
-		ammoMultiplier: 5
+		ammoMultiplier: 4
 	}
 	copper: {
 		speed: 13
-		damage: 11
+		damage: 10
 		bulletWidth: 7
 		bulletHeight: 10
 		frontColor: c2c2c2
 		backColor: c2c2c2
-		status: burning
-		statusDuration: 55
 		shootEffect: shootSmall
 		smokeEffect: shootSmallSmoke
-		ammoMultiplier: 10
+		ammoMultiplier: 4
 	}
 }
 requirements: [
 	grayum/85
-             titanium/35
+	copper/70
+	lead/80
+	
 ]
 category: turret
 research: grayum-turret

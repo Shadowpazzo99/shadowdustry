@@ -1,12 +1,12 @@
 {
 	"type": "Conveyor",
-	"name": "Lightium conveyor",
-	"description": "a bright conveyor",
+	"name": "Lightium Conveyor",
+	"description": "a very fast conveyor based on lightium technology ",
 	"health": 300,
 	"requirements": [
 		{"item": "rlightium", "amount": 1}
 	],
 	"category": "distribution",
-	"speed": 0.17,
+	"speed": 0.20,
 	"research": "titanium-conveyor"
 }

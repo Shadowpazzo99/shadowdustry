@@ -7,7 +7,10 @@
     "consumes":
     {"power": 1.5},
     "requirements": [
-        { "item": "rdarkium", "amount": 250 }
+        { "item": "rdarkium", "amount": 250 },
+        { "item": "lead", "amount": 400 },
+        { "item": "copper", "amount": 655 },
+        { "item": "darkium", "amount": 200 }
     ],
     "category": "upgrade",
     "research": "darker-pad"

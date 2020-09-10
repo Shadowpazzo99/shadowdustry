@@ -11,7 +11,7 @@ consumes: {
   items: {
     items: [
       lightium/40
-       rlightium/10
+      rlightium/10
       silicon/55
     ]
   }

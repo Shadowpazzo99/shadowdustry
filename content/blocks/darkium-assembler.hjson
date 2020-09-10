@@ -1,6 +1,6 @@
 type: GenericCrafter
-name: darkium assembler
-description: creates the darkest ore the world ever seen
+name: Darkium Assembler
+description: creates a very dark ore
 health: 400
 liquidCapacity: 30
 size: 2

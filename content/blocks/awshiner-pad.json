@@ -7,7 +7,10 @@
     "consumes":
     {"power": 1.5},
     "requirements": [
-        { "item": "rlightium", "amount": 250 }
+        { "item": "rlightium", "amount": 220 },
+        { "item": "lightium", "amount": 50 },
+        { "item": "lead", "amount": 355 },
+        { "item": "copper", "amount": 400}
     ],
     "category": "upgrade",
     "research": "shiner-pad"

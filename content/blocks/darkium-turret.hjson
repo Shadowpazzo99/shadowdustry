@@ -1,7 +1,6 @@
 type: ItemTurret
 name: darkium turret
-description: a well rounded turret.
-
+description: a basic darkium turret, i wont recommend using this unless necessary.
 size: 1
 health: 450
 range: 120
@@ -9,7 +8,7 @@ ammoUseEffect: none
 maxAmmo: 100
 inaccuracy: 5
 rotatespeed: 17
-reload: 4
+reload: 15
 shootSound: none
 	
 ammo: {

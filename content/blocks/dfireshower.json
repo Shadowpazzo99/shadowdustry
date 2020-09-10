@@ -1,7 +1,7 @@
 {
 	"type": "LaserTurret",
 	"name": " [#7e00ff] Darkium[#ff9900] Fire Shower",
-	"description": "it's op trust me.",
+	"description": "it's op trust me, pretty good at attacking enemy bases.",
 	"targetAir": true,
 	"targetGround": true,
 	"hasPower": true,

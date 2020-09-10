@@ -1,0 +1,16 @@
+  
+{
+	"type": "PowerNode",
+	"name": "Grayum Power Node",
+	"description": "a pretty good node made out of grayum",
+	"size": 1,
+	"health": 800,
+	"maxNodes": 20,
+	"laserRange": 16,
+	"requirements": [
+		{ "item": "grayum", "amount": 20 },
+		{ "item": "lead", "amount": 30 }
+	],
+	"category": "power",
+	"research": "power-node"
+}

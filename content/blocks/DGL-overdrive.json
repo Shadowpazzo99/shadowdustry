@@ -1,0 +1,26 @@
+{
+    "type": "OverdriveProjector",
+    "name": "DGL overdrive projector",
+    "description": "a high tier overdrive projector"
+    "consumes": {
+      "power": 6,
+      "items": {
+        "items": [
+          { "item": "grayum", "amount": 1 },
+        ],
+        "optional": true,
+        "booster": true
+      }
+    },
+    "size": 2,
+    "range": 200,
+    "speedBoost": 3.0,
+    "speedBoostPhase": 4.5,
+      "category": "effect",
+      "research": "overdrive-projector",
+    "requirements": [
+      { "item": "grayum", "amount": 150 },
+      { "item": "silicon", "amount": 950 },
+      { "item": "DGL-ore", "amount": 100 }
+    ]
+  }

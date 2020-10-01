@@ -1,5 +1,5 @@
 type: ItemTurret
-name: grayum sentry mk2
+name: awakened grayum turret
 description: a balanced turret for air and ground.
 
 size: 2
@@ -9,7 +9,7 @@ ammoUseEffect: none
 maxAmmo: 55
 inaccuracy: 5
 rotatespeed: 17
-reload: 6
+reload: 8
 shootSound: none
 	
 ammo: {

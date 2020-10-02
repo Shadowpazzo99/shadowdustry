@@ -9,7 +9,7 @@
 	"shootType": "meltdownLaser",
 	"powerUse": 21,
 	"health": 6000,
-	"size": 3,
+	"size": 4,
 	"damage": 1700,
 	"inaccuracy": 1.7,
 	"reload": 2.1,

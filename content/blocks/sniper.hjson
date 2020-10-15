@@ -18,11 +18,12 @@ ammo: {
 		damage: 95
 		bulletWidth: 6
 		bulletHeight: 6
-                             frontColor: ffffff
+        frontColor: ffffff
 		backColor: ffffff
 		shootEffect: shootSmall
 		smokeEffect: shootSmallSmoke
 		ammoMultiplier: 1
+		lifetime: 105
 	}
 	rlightium: {
 		speed: 8
@@ -36,6 +37,7 @@ ammo: {
 		shootEffect: shootSmall
 		smokeEffect: shootSmallSmoke
 		ammoMultiplier: 2
+		lifetime: 120
 	}
 }
 requirements: [

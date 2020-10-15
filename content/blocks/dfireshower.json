@@ -1,8 +1,7 @@
 {
 	"type": "LaserTurret",
 	"name": "Darkium Fire Shower",
-	"description": "works like a meltdown but its a shotgun and the first shot stays,
-	 useful to pierce enemy bases.",
+	"description": "its basically a meltdown but its a shotgun with more damge,health and fire rate.",
 	"targetAir": true,
 	"targetGround": true,
 	"hasPower": true,

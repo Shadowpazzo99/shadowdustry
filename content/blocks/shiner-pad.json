@@ -1,7 +1,7 @@
 {
     "type": "MechPad",
     "mech": "shiner",
-    "name": "shiner mech pad",
+    "name": "Shiner mech pad",
     "description": "it trasform you in a shiner mech.",
     "size": 2,
     "consumes":

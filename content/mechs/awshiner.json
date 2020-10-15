@@ -4,7 +4,7 @@
 	"health": 1400,
 	"mass": 18,
 	"flying": false,
-	"speed": 1.8,
+	"speed": 0.8,
 	"weapon": 
 	{
 		"name": "router-gun",

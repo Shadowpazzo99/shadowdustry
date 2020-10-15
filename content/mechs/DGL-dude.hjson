@@ -1,14 +1,14 @@
 name: DGL dude
 description: a high tier mech capable of blasting everything with its arc minigun
 mass: 18
-speed: 1.4
+speed: 1
 buildPower: 3
 mineSpeed: 3
 drillPower: 3
 ItemCapacity: 60
 engineColor: "8ebeef"
 flying: false
-health: 4000
+health: 3600
 weaponOffsetX: 4
 weapon: {
   name: DGL-blaster

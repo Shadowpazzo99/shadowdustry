@@ -1,7 +1,7 @@
 {
     "type": "MechPad",
     "mech": "darker",
-    "name": "darker mech pad",
+    "name": "Darker mech pad",
     "description": "it trasform you in a dark ship.",
     "size": 2,
     "consumes":

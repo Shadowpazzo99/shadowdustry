@@ -1,8 +1,7 @@
 {
 	"type": "burstTurret",
 	"name": "Lightium Apocalipse Cannon",
-	"description": "actually good as it looks. by the way, the bullet doesnt last long as the range
-	this turret is good to anticipate enemy troops path not offense",
+	"description": "a very fast turret specialized on single strong enemies or big chunks of weak ones",
 	"targetAir": true,
 	"targetGround": true,
 	"health": 2000,
@@ -22,6 +21,7 @@
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 3
+			"lifetime": 105
 		},
 		"rlightium": {
 			"speed": 4.5,
@@ -31,6 +31,7 @@
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 4
+			"lifetime": 120
 		}
 	},
 	"requirements": [

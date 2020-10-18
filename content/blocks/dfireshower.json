@@ -20,7 +20,7 @@
 	"chargeTime": 11,
 	"chargeEffects": 5,
 	"chargeMaxDelay": 5,
-	"shootDuration": 1,
+	"shootDuration": 3,
 	"range": 200,
 	"requirements": [
 		{ "item": "rdarkium", "amount": 180 },

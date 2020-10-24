@@ -1,11 +1,11 @@
 {
-	"name": "lightium drill",
-	"description": "Drill can mine a lot of things.",
+	"name": "Lightium Drill",
+	"description": "this drill is a bit more efficient than darkium one but has a lower mine force .",
 	"type": "Drill",
 	"size": 3,
-	"tier": 11,
+	"tier": 10,
 	"BlockGroup": "drills",
-	"drillTime": 85,
+	"drillTime": 75,
 	"consumes": {
 		"power": 0.4,
 		"liquid": {

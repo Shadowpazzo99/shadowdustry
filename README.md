@@ -1,7 +1,7 @@
 ![logo](logo.png)
-# tf is this
-ShadowDustry is a mod based on mid-late game which adds a kinda special arsenal and other stuff
+# The Content
+maybe i will work on the mod once again after these 2 years of death
 # other stuff
- discord server [the cool place where we talk about random stuff sometimes also about my mods](https://discord.gg/CSvEMPN)
-# special thanks to
+ShadowPazzo#5003 is my discord, the server related to this mod is long gone, gain my trust and maybe I'll invite you to something more special than that
+# (old)special thanks to
 Baronch#9878 for some awesome sprites and moral support lol
